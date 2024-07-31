@@ -1,0 +1,58 @@
+.list li{
+    display:flex;
+    text-align: left;
+    display: inline;
+    margin-left: 250px;
+    font-size: 18px;
+    align-items: center;
+    font-family:'Gill Sans', 'Gill Sans MT';
+}
+body{
+    background-color: rgb(241, 223, 226);
+
+}
+#main{
+    width:85%;
+    height:600px;
+    border: 2px solid rgb(7, 7, 7);
+    display: flex;
+    margin:auto;
+
+    
+
+}
+#cnt{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT';
+}
+#title{
+    text-align: left;
+    margin-left: 40px;
+    font-size: x-large;
+    
+}
+#t1{
+    width:500px
+}
+#b1{
+  display: block;
+  margin-top: 300px;
+
+}
+#title1{
+    margin-right: 270px;
+
+}
+.list1{
+    display: flex;
+       
+}
+#a{
+    width: 60px
+}
+#bg{
+    display: flex;
+    padding:10px;
+    position: relative;
+    margin-left: 140px;
+}
